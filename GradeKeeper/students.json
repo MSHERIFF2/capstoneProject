@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Lawal Ismail",
+      "class": "SS1",
+      "subject": "Mathematics",
+      "ca": [80, 70, 90],
+      "exam": [90, 85, 95]
+    },
+    {
+      "name": "Sodiq Muritala",
+      "class": "SS2",
+      "subject": "English",
+      "ca": [75, 80, 85],
+      "exam": [85, 90, 95]
+    }
+  ]
